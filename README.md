@@ -63,5 +63,6 @@ Dev Khurana
 ## GUI Snapshot
 ## Figure: Equity : News Research Tool Interface 
 
-<img width="1179" height="1124" alt="image" src="https://github.com/user-attachments/assets/fc678892-c524-496a-9cd4-6c2cb770a214" />
+<img width="311" height="161" alt="image" src="https://github.com/user-attachments/assets/bfe3c15e-a8cf-4237-8995-d71220ed3f9c" />
+
 
