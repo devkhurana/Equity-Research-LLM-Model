@@ -60,6 +60,7 @@ hhtp://localhost:8501
 📄 Author
 
 Dev Khurana
+## GUI Snapshot
 ## Figure: Equity : News Research Tool Interface 
 
 <img width="1179" height="1124" alt="image" src="https://github.com/user-attachments/assets/fc678892-c524-496a-9cd4-6c2cb770a214" />
