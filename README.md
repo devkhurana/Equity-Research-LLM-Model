@@ -1,25 +1,62 @@
-# Equity Research LLM Model
+# 📊 Equity Research LLM Model
 
-An AI-powered NLP web application built using Flask and Hugging Face Transformers.
+This project is a **Large Language Model (LLM) based Equity Research application** that helps users analyze equity-related data and get intelligent answers using natural language queries.
 
-## Features
-- Text Generation (LLM)
-- Translation
-- Zero-Shot Classification
+The model processes financial documents and provides **accurate, context-based responses** to user questions.
 
-## Tech Stack
-- Python
-- Flask
-- Hugging Face Transformers
-- PyTorch
+---
 
-## Installation
+## 🚀 Features
+- 🔍 Equity research using Natural Language Processing  
+- 🤖 LLM-powered question answering  
+- 📄 Document-based insights  
+- 🌐 Web-based interface using Streamlit  
+- 📚 Displays sources used to generate answers  
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- Large Language Model (LLM)  
+- Streamlit  
+- LangChain  
+- FAISS  
+- OpenAI / HuggingFace Embeddings  
+
+---
+
+## ⚙️ How It Works
+1. Financial documents are loaded and processed  
+2. Text is converted into vector embeddings  
+3. User enters an equity-related question  
+4. LLM generates an answer based on relevant data  
+5. Answer and sources are displayed on the screen  
+
+---
+
+## ▶️ How to Run the Project
+
 ```bash
-pip install flask transformers torch sentencepiece
-python app.py
-## Use Case
-This project demonstrates how Large Language Models (LLMs) can be used for
-equity research, text analysis, and NLP experimentation.
+pip install -r requirements.txt
+streamlit run main.py
+The application will open in your browser at:
+code
+hhtp://localhost:8501
 
-## Author
+🖥️ Final Output
+	•	User enters a query related to equity research
+	•	The LLM generates an intelligent response
+	•	Sources used for the answer are also shown
+
+⸻
+
+📌 Use Case
+	•	Equity market analysis
+	•	Financial research assistance
+	•	Learning and academic projects
+
+⸻
+
+📄 Author
+
 Dev Khurana
